@@ -16,6 +16,7 @@ import org.springframework.util.ResourceUtils;
 import sun.misc.BASE64Decoder;
 //https://www.cnblogs.com/ZeroMZ/p/11481813.html
 //phantomjs /opt/echartsconvert/echarts-convert.js -s -p 6666
+//yum install bitmap-fonts bitmap-fonts-cjk
 public class App {
     public static void main(String[] args) throws ClientProtocolException, IOException, TemplateException {
         // 变量
